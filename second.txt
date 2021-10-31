@@ -1,3 +1,4 @@
 hello
 second line
 another line
+lorem ipsum
